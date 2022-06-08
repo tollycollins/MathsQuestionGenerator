@@ -1,7 +1,7 @@
 # MathsQuestionGenerator
 
-The Colab Notebook copy contains the code for a Masters project on generatiev Mathematics.  
+The Colab Notebook copy contains the code for a Masters project on generative Mathematics. 
 
-The aim is to use a DNN to create basic syntactically correct arithmetic questions.  
+A modular Deep learning system with a multi-task variational autoencoder at its heart cerates basic syntactically correct arithmetic questions.  
 
 The full report is also included.  
